@@ -5,7 +5,7 @@
 5. Check service:
  * Layout list:
 
-```bush
+```bash
 gdbus call \
 --session \
 --dest com.berelx.LayoutSwitcher \
@@ -15,7 +15,7 @@ gdbus call \
 
 * Current Layout:
   
-```bush
+```bash
 gdbus call \
 --session \
 --dest com.berelx.LayoutSwitcher \
@@ -25,7 +25,7 @@ gdbus call \
 
 * Switch to Russian layout:
 
-```bush
+```bash
 gdbus call \
 --session \
 --dest com.berelx.LayoutSwitcher \
@@ -35,7 +35,7 @@ gdbus call \
 
 * Switch to English layout:
 
-```bush
+```bash
 gdbus call \
 --session \
 --dest com.berelx.LayoutSwitcher \
