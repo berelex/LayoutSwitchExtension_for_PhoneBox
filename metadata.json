@@ -1,0 +1,8 @@
+{
+  "uuid": "layoutswitch@berelex",
+  "name": "Layout Switcher",
+  "description": "DBus keyboard layout switcher",
+  "shell-version": [
+    "50"
+  ]
+}
